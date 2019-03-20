@@ -1,0 +1,5 @@
+<aura:component implements="flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes" access="global" >
+
+    <ltng:require styles="{!join(',',$Resource.FullCalendarCSS)}" scripts="{!join(',',$Resource.JQueryJS,$Resource.MomentJS,$Resource.FullCalenderJS)}" afterScriptsLoaded="{!c.LoadJquery}"/>
+    <div id="calendar" ></div>
+</aura:component>

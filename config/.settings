@@ -1,0 +1,17 @@
+{
+    "projectName": "rizz@kAT",
+    "username": "rizz@kat.com",
+    "id": "0ff63900-4b12-11e9-acf4-57bb898deb1b",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://aaq-dev-ed.my.salesforce.com",
+    "workspace": "Z:\\Work\\Sublime_Workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

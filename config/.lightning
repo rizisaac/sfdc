@@ -1,0 +1,835 @@
+[
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JINVCA4"
+        },
+        "Id": "0Ad0o000000JINVCA4",
+        "AuraDefinitionBundleId": "0Ab0o000000HhwDCAS",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HhwDCAS"
+            },
+            "DeveloperName": "FullCalendarApp"
+        },
+        "DefType": "APPLICATION",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JIR3CAO"
+        },
+        "Id": "0Ad0o000000JIR3CAO",
+        "AuraDefinitionBundleId": "0Ab0o000000HhwICAS",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HhwICAS"
+            },
+            "DeveloperName": "FullCalendarComponent"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JINaCAO"
+        },
+        "Id": "0Ad0o000000JINaCAO",
+        "AuraDefinitionBundleId": "0Ab0o000000HhwICAS",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HhwICAS"
+            },
+            "DeveloperName": "FullCalendarComponent"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5lCAC"
+        },
+        "Id": "0Ad0o000000Jk5lCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvqCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvqCAC"
+            },
+            "DeveloperName": "DocuSignLightningSendingLocked"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5mCAC"
+        },
+        "Id": "0Ad0o000000Jk5mCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvqCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvqCAC"
+            },
+            "DeveloperName": "DocuSignLightningSendingLocked"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5nCAC"
+        },
+        "Id": "0Ad0o000000Jk5nCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvqCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvqCAC"
+            },
+            "DeveloperName": "DocuSignLightningSendingLocked"
+        },
+        "DefType": "DOCUMENTATION",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5oCAC"
+        },
+        "Id": "0Ad0o000000Jk5oCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvqCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvqCAC"
+            },
+            "DeveloperName": "DocuSignLightningSendingLocked"
+        },
+        "DefType": "DESIGN",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5pCAC"
+        },
+        "Id": "0Ad0o000000Jk5pCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvqCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvqCAC"
+            },
+            "DeveloperName": "DocuSignLightningSendingLocked"
+        },
+        "DefType": "SVG",
+        "Format": "SVG"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5qCAC"
+        },
+        "Id": "0Ad0o000000Jk5qCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvrCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvrCAC"
+            },
+            "DeveloperName": "EnvelopeConfiguration"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5rCAC"
+        },
+        "Id": "0Ad0o000000Jk5rCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvrCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvrCAC"
+            },
+            "DeveloperName": "EnvelopeConfiguration"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5sCAC"
+        },
+        "Id": "0Ad0o000000Jk5sCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvrCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvrCAC"
+            },
+            "DeveloperName": "EnvelopeConfiguration"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5tCAC"
+        },
+        "Id": "0Ad0o000000Jk5tCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvrCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvrCAC"
+            },
+            "DeveloperName": "EnvelopeConfiguration"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5uCAC"
+        },
+        "Id": "0Ad0o000000Jk5uCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvrCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvrCAC"
+            },
+            "DeveloperName": "EnvelopeConfiguration"
+        },
+        "DefType": "SVG",
+        "Format": "SVG"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5vCAC"
+        },
+        "Id": "0Ad0o000000Jk5vCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvsCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvsCAC"
+            },
+            "DeveloperName": "EnvelopeConfigurationManageLayouts"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5wCAC"
+        },
+        "Id": "0Ad0o000000Jk5wCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvsCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvsCAC"
+            },
+            "DeveloperName": "EnvelopeConfigurationManageLayouts"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5xCAC"
+        },
+        "Id": "0Ad0o000000Jk5xCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvsCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvsCAC"
+            },
+            "DeveloperName": "EnvelopeConfigurationManageLayouts"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5yCAC"
+        },
+        "Id": "0Ad0o000000Jk5yCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvsCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvsCAC"
+            },
+            "DeveloperName": "EnvelopeConfigurationManageLayouts"
+        },
+        "DefType": "SVG",
+        "Format": "SVG"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk61CAC"
+        },
+        "Id": "0Ad0o000000Jk61CAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvtCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvtCAC"
+            },
+            "DeveloperName": "EnvelopeConfigurationModal"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk5zCAC"
+        },
+        "Id": "0Ad0o000000Jk5zCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvtCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvtCAC"
+            },
+            "DeveloperName": "EnvelopeConfigurationModal"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk60CAC"
+        },
+        "Id": "0Ad0o000000Jk60CAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvtCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvtCAC"
+            },
+            "DeveloperName": "EnvelopeConfigurationModal"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk62CAC"
+        },
+        "Id": "0Ad0o000000Jk62CAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvuCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvuCAC"
+            },
+            "DeveloperName": "EnvelopeConfigurationSave"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk63CAC"
+        },
+        "Id": "0Ad0o000000Jk63CAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvuCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvuCAC"
+            },
+            "DeveloperName": "EnvelopeConfigurationSave"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000Jk64CAC"
+        },
+        "Id": "0Ad0o000000Jk64CAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HtvuCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HtvuCAC"
+            },
+            "DeveloperName": "EnvelopeConfigurationSave"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkUCAS"
+        },
+        "Id": "0Ad0o000000JnkUCAS",
+        "AuraDefinitionBundleId": "0Ab0o000000HvsuCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HvsuCAC"
+            },
+            "DeveloperName": "setExpId"
+        },
+        "DefType": "EVENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkVCAS"
+        },
+        "Id": "0Ad0o000000JnkVCAS",
+        "AuraDefinitionBundleId": "0Ab0o000000HvsvCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HvsvCAC"
+            },
+            "DeveloperName": "setStartUrl"
+        },
+        "DefType": "EVENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkZCAS"
+        },
+        "Id": "0Ad0o000000JnkZCAS",
+        "AuraDefinitionBundleId": "0Ab0o000000HvszCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HvszCAC"
+            },
+            "DeveloperName": "loginForm"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkaCAC"
+        },
+        "Id": "0Ad0o000000JnkaCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HvszCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HvszCAC"
+            },
+            "DeveloperName": "loginForm"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkbCAC"
+        },
+        "Id": "0Ad0o000000JnkbCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HvszCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HvszCAC"
+            },
+            "DeveloperName": "loginForm"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkcCAC"
+        },
+        "Id": "0Ad0o000000JnkcCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HvszCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HvszCAC"
+            },
+            "DeveloperName": "loginForm"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkdCAC"
+        },
+        "Id": "0Ad0o000000JnkdCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000HvszCAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HvszCAC"
+            },
+            "DeveloperName": "loginForm"
+        },
+        "DefType": "DESIGN",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkeCAC"
+        },
+        "Id": "0Ad0o000000JnkeCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000Hvt0CAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000Hvt0CAC"
+            },
+            "DeveloperName": "selfRegister"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkfCAC"
+        },
+        "Id": "0Ad0o000000JnkfCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000Hvt0CAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000Hvt0CAC"
+            },
+            "DeveloperName": "selfRegister"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkgCAC"
+        },
+        "Id": "0Ad0o000000JnkgCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000Hvt0CAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000Hvt0CAC"
+            },
+            "DeveloperName": "selfRegister"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkhCAC"
+        },
+        "Id": "0Ad0o000000JnkhCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000Hvt0CAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000Hvt0CAC"
+            },
+            "DeveloperName": "selfRegister"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkiCAC"
+        },
+        "Id": "0Ad0o000000JnkiCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000Hvt0CAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000Hvt0CAC"
+            },
+            "DeveloperName": "selfRegister"
+        },
+        "DefType": "DESIGN",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkjCAC"
+        },
+        "Id": "0Ad0o000000JnkjCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000Hvt1CAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000Hvt1CAC"
+            },
+            "DeveloperName": "forgotPassword"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkkCAC"
+        },
+        "Id": "0Ad0o000000JnkkCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000Hvt1CAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000Hvt1CAC"
+            },
+            "DeveloperName": "forgotPassword"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnklCAC"
+        },
+        "Id": "0Ad0o000000JnklCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000Hvt1CAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000Hvt1CAC"
+            },
+            "DeveloperName": "forgotPassword"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnkmCAC"
+        },
+        "Id": "0Ad0o000000JnkmCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000Hvt1CAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000Hvt1CAC"
+            },
+            "DeveloperName": "forgotPassword"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JnknCAC"
+        },
+        "Id": "0Ad0o000000JnknCAC",
+        "AuraDefinitionBundleId": "0Ab0o000000Hvt1CAC",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000Hvt1CAC"
+            },
+            "DeveloperName": "forgotPassword"
+        },
+        "DefType": "DESIGN",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JoqGCAS"
+        },
+        "Id": "0Ad0o000000JoqGCAS",
+        "AuraDefinitionBundleId": "0Ab0o000000HwcWCAS",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HwcWCAS"
+            },
+            "DeveloperName": "auraPubsubSubscriber"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JoqFCAS"
+        },
+        "Id": "0Ad0o000000JoqFCAS",
+        "AuraDefinitionBundleId": "0Ab0o000000HwcWCAS",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HwcWCAS"
+            },
+            "DeveloperName": "auraPubsubSubscriber"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JoqHCAS"
+        },
+        "Id": "0Ad0o000000JoqHCAS",
+        "AuraDefinitionBundleId": "0Ab0o000000HwcWCAS",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HwcWCAS"
+            },
+            "DeveloperName": "auraPubsubSubscriber"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JoqICAS"
+        },
+        "Id": "0Ad0o000000JoqICAS",
+        "AuraDefinitionBundleId": "0Ab0o000000HwcXCAS",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HwcXCAS"
+            },
+            "DeveloperName": "auraPubsubPublisher"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JoqJCAS"
+        },
+        "Id": "0Ad0o000000JoqJCAS",
+        "AuraDefinitionBundleId": "0Ab0o000000HwcXCAS",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HwcXCAS"
+            },
+            "DeveloperName": "auraPubsubPublisher"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JoqKCAS"
+        },
+        "Id": "0Ad0o000000JoqKCAS",
+        "AuraDefinitionBundleId": "0Ab0o000000HwcXCAS",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HwcXCAS"
+            },
+            "DeveloperName": "auraPubsubPublisher"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JoqLCAS"
+        },
+        "Id": "0Ad0o000000JoqLCAS",
+        "AuraDefinitionBundleId": "0Ab0o000000HwcYCAS",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HwcYCAS"
+            },
+            "DeveloperName": "auraEmbeddedLWC"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JoqMCAS"
+        },
+        "Id": "0Ad0o000000JoqMCAS",
+        "AuraDefinitionBundleId": "0Ab0o000000HwcYCAS",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HwcYCAS"
+            },
+            "DeveloperName": "auraEmbeddedLWC"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0o000000JoqNCAS"
+        },
+        "Id": "0Ad0o000000JoqNCAS",
+        "AuraDefinitionBundleId": "0Ab0o000000HwcYCAS",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0o000000HwcYCAS"
+            },
+            "DeveloperName": "auraEmbeddedLWC"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    }
+]
